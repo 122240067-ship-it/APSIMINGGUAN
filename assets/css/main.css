@@ -2791,6 +2791,11 @@ main section.cta-band {
   color: #ffffff !important;
   opacity: 1 !important;
 }
+
+/* Memberikan jarak luar (gap) antara seksi Struktur dan Kontak */
+#contact {
+  margin-top: 60px !important;
+}
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
